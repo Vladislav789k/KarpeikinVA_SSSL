@@ -1,11 +1,12 @@
 
 ## Создаем 2 виртуальные машины на базе Ubuntu (Ссылка - https://ubuntu.com/download/desktop) и обеспечиваем между ними сетевой обмен.
-![image](1.png)
+![image](https://github.com/Vladislav789k/TOIB-PR4/assets/71137501/316f69df-1e15-44fb-bfeb-5a5ba500f55c)
 
 
-![image](2.png)
+![image](https://github.com/Vladislav789k/TOIB-PR4/assets/71137501/c6eeef8f-9431-4c53-a176-dcaa504644ea)
 
 ![image](https://github.com/Vladislav789k/TOIB-PR4/assets/71137501/318368be-6efa-42b8-a800-bedc86a8fe9e)
+
 
 
 ## Устанавливаем, включаем правила TCP и UDP соединения и настраиваем правила rsyslog на сервере и клиенте
