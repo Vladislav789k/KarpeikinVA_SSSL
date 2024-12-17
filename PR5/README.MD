@@ -52,7 +52,6 @@ Ip серверной ВМ и первичная команда для curl.
 ![image](https://github.com/user-attachments/assets/2ca09f49-9eac-4dec-a390-07f88313202b)
 
 
-
 ### Проверка целостности файлов
 
 Результат проверки целостности файлов
@@ -77,3 +76,35 @@ Ip серверной ВМ и первичная команда для curl.
 
 ![image](https://github.com/user-attachments/assets/7a301bda-43a3-4e34-bc02-6864097c54c4)
 ![image](https://github.com/user-attachments/assets/39ddb553-7d52-4c92-b9e7-8e40d022b22f)
+
+### Suricata agent
+
+
+### Блок для анализа логов Suricata
+
+
+### На защищаемом клиенте поднята Apache
+
+
+### Сканер уязвимостей Nikto
+
+
+###   Wazuh Vulnerability detection
+
+
+### OpenVas
+При установке OpenVas возникла проблема с бесконесной загрузкой, правда невозможно так долго ждать.
+
+Nessus не дает скачать (санкции).
+
+У меня есть чкткое представление работы сканера уязвимостей (на работе исрользую решение от Positive Technologies "MaxPatrol VM" или ScanOVAL по рекомендации ФСТЭК)
+
+
+
+### Yara
+
+
+
+Качаем правила
+
+
